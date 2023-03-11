@@ -1,0 +1,41 @@
+{
+  "contentType": "collection",
+  "contentId": "motd-default-collection",
+  "tcId": "cca20b46-eb7d-4852-94b9-8479ddb53b2d",
+  "contentItems": [
+    {
+      "contentType": "content-item",
+      "contentId": "753b2fed-a492-4e11-a34f-9741cc739d47",
+      "tcId": "9b89584d-0711-4269-980d-09d50d04f857",
+      "contentFields": {
+        "body": "Discord Server - ",
+        "entryType": "Text",
+        "image": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "url": ""
+          },
+          {
+            "width": 960,
+            "height": 540,
+            "url": ""
+          }
+        ],
+        "tabTitleOverride": "",
+        "tileImage": [
+          {
+            "width": 1024,
+            "height": 512,
+            "url": ""
+          }
+        ],
+        "title": "",
+        "websiteButtonText": "Join discord",
+        "websiteURL": "",
+        "websiteSKickIntroDo": false
+      },
+      "contentSchemaName": "MotdWebsiteNews"
+    }
+  ]
+}
