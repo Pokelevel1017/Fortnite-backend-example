@@ -1,0 +1,18 @@
+{
+  "created": "now",
+  "updated": "now",
+  "rvn": 4,
+  "wipeNumber": 1,
+  "accountId": "atomic",
+  "profileId": "common_public",
+  "version": "no_version",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "DefaultColor8",
+      "homebase_name": "idk",
+      "banner_icon": "BRSeason02Salt"
+    }
+  },
+  "commandRevision": 2
+}
